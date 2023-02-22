@@ -119,7 +119,7 @@ class _HomePageState extends State<HomePage> {
       ),
       bottomNavigationBar: Container(
           child: const Text(
-        "Calculate",
+        "Calculate screen",
       )),
     );
   }
